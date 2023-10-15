@@ -1,6 +1,7 @@
 export const settings = {
-  site: 'https://cannonball.littlesticks.dev',
-  name: 'Little Sticks',
-  title: 'Cannonball by Little Sticks | A splash page template',
-  description: 'This is a simple splash page template built with Astro by Little Sticks',
-}
+  site: "https://devpal.solutions",
+  name: "Devpal Solutions",
+  title: "Devpal Solutions",
+  description:
+    "Devpal Solutions is a software development company that specializes in building web and mobile applications.",
+};
